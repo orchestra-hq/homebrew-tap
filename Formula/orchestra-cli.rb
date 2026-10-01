@@ -5,8 +5,8 @@ class OrchestraCli < Formula
 
   desc "Command-line tool for working with Orchestra pipelines"
   homepage "https://github.com/orchestra-hq/orchestra-cli"
-  url "https://files.pythonhosted.org/packages/39/63/d6c23fa73c816e901a98591c2ffb46994e0b9da8d5b1dc357c2a00689275/orchestra_cli-0.3.5.tar.gz"
-  sha256 "41522f559bf16035b6a003e0211969c49174b21830c3016071a1104691296c47"
+  url "https://files.pythonhosted.org/packages/69/59/9352431b2979ec17b366b6e376f99ce8cd599c45d6f010c79bb6066d35eb/orchestra_cli-0.4.0.tar.gz"
+  sha256 "a7c45d9460470555f615dce8a063041cc35641f3db6d53b8917b04b71caa2b19"
 
   depends_on "python@3.13"
 
