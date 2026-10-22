@@ -5,8 +5,8 @@ class OrchestraCli < Formula
 
   desc "Command-line tool for working with Orchestra pipelines"
   homepage "https://github.com/orchestra-hq/orchestra-cli"
-  url "https://files.pythonhosted.org/packages/8e/a5/749e374a699a62806145130447e0fb773317433d41b8f145f47f7c31157e/orchestra_cli-0.5.1.tar.gz"
-  sha256 "cf4486d0b33b72de08c24f0b075440ada7f6f48222b85b84a6d2348ec51f9e34"
+  url "https://files.pythonhosted.org/packages/6f/45/efc5addf49b2a30fb023f65871d71f9592b579f84c96e7abc58b63e7fc98/orchestra_cli-0.5.2.tar.gz"
+  sha256 "b6d164a78167a877c989439b876e5cd2d5d81e922d0347cdc3f4a7837ac07b2e"
 
   depends_on "python@3.13"
 
@@ -21,8 +21,8 @@ class OrchestraCli < Formula
   end
 
   resource "certifi" do
-    url "https://files.pythonhosted.org/packages/73/f7/f14b46d4bcd21092d7d3ccef689615220d8a08fb25e564b65d20738e672e/certifi-2025.6.15.tar.gz"
-    sha256 "d747aa5a8b9bbbb1bb8c22bb13e22bd1f18e9796defa16bab421f7f7a317323b"
+    url "https://files.pythonhosted.org/packages/a6/bd/1436c50cc46699de0230fbaacc1d1de7bfec413176099949e9d5112e88f2/certifi-2026.10.19.tar.gz"
+    sha256 "035c1e85572b141bf1c3a3eff0e33a8eb74917522f2559075ff8d2fea780a1ae"
   end
 
   resource "click" do
